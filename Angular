@@ -1,0 +1,8 @@
+ASPA - 
+
+$ npm install -g typescript
+$ npm install -g @angular/cli
+$ npm install @angular/cli
+tsc main.ts  -converter TS PARA JS
+
+
